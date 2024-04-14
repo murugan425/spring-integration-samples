@@ -99,7 +99,7 @@
     <dependency>
       <groupId>org.jruby</groupId>
       <artifactId>jruby</artifactId>
-      <version>1.7.12</version>
+      <version>9.3.0.0</version>
       <scope>compile</scope>
       <exclusions>
         <exclusion>
